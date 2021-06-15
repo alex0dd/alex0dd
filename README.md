@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey, I'm Alex O. P. !
+
+💻 Currently doing my Artificial Intelligence Software Engineering internship at [NVIDIA](https://www.nvidia.com/en-us/).
+
+🎓 Enrolled in an MSc in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html).
+
+🔭 Professional interests: Deep Learning in general, and its more specific applications related to Computer Vision, Image Generation, Natural Language Processing and lately Recommender Systems.
+
+📫 Reach me: [Linkedin](https://www.linkedin.com/in/alexoop/)
 
 <!--
 **alexpod1000/alexpod1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
