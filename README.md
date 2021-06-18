@@ -6,6 +6,8 @@
 
 🔭 Professional interests: Deep Learning in general, and its more specific applications related to Computer Vision, Image Generation, Natural Language Processing and lately Recommender Systems.
 
+🌱 Currently learning **Graph Neural Networks**.
+
 📫 Reach me: [Linkedin](https://www.linkedin.com/in/alexoop/)
 
 <!--
