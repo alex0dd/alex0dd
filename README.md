@@ -2,7 +2,7 @@
 
 💻 Currently doing my Artificial Intelligence Software Engineering internship at [NVIDIA](https://www.nvidia.com/en-us/).
 
-🎓 Enrolled in an MSc in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html).
+🎓 MSc in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html).
 
 🔭 Professional interests: general Deep Learning, and its specific applications related to Computer Vision, Image Generation, Natural Language Processing and Recommender Systems.
 
