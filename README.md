@@ -1,6 +1,6 @@
 ### Hey, I'm Alex O. P. !
 
-💻 Currently doing my Artificial Intelligence Software Engineering internship at [NVIDIA](https://www.nvidia.com/en-us/).
+💻 Artificial Intelligence Software Engineer at [NVIDIA](https://www.nvidia.com/en-us/).
 
 🎓 MSc in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html).
 
