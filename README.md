@@ -4,13 +4,19 @@
 
 🎓 MSc in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html).
 
-🔭 Professional interests: general Deep Learning, and its specific applications related to Computer Vision, Image Generation, Natural Language Processing and Recommender Systems.
+🔭 Professional interests: 
+  - Recommendation Systems.
+  - Optimized model implementation.
+  - Graph Neural Networks.
+  - Deep Learning and its applications to Image Generation and Natural Language Processing.
 
-🌱 Currently learning **Graph Neural Networks**.
+🌱 Currently learning **Software Architectures for Recommendation Systems**.
 
 📫 Reach me: [Linkedin](https://www.linkedin.com/in/alexoop/)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexpod1000&theme=dracula&hide=jupyter%20notebook&langs_count=8&layout=compact)](https://github.com/alexpod1000)
+-->
 
 <!--
 **alexpod1000/alexpod1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
