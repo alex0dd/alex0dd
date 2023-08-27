@@ -5,12 +5,12 @@
 🎓 MSc in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html).
 
 🔭 Professional interests: 
+  - Few-shot image classification.
   - Recommendation Systems.
   - Optimized model implementation.
   - Graph Neural Networks.
-  - Deep Learning and its applications to Image Generation and Natural Language Processing.
 
-🌱 Currently learning **Software Architectures for Recommendation Systems**.
+🌱 Currently learning **Computer Vision for few-shot image classification**.
 
 📫 Reach me: [Linkedin](https://www.linkedin.com/in/alexoop/)
 
