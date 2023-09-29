@@ -12,10 +12,10 @@
 
 🌱 Currently learning **Computer Vision for few-shot image classification**.
 
-📫 Reach me: [Linkedin](https://www.linkedin.com/in/alexoop/)
+📫 Reach me: [Linkedin](https://www.linkedin.com/in/alex0dd/)
 
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexpod1000&theme=dracula&hide=jupyter%20notebook&langs_count=8&layout=compact)](https://github.com/alexpod1000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex0dd&theme=dracula&hide=jupyter%20notebook&langs_count=8&layout=compact)](https://github.com/alexpod1000)
 -->
 
 <!--
