@@ -10,7 +10,7 @@
   - Optimized model implementation.
   - Graph Neural Networks.
 
-🌱 Currently learning **Computer Vision for few-shot image classification**.
+🌱 Currently learning **Large Language Models**.
 
 📫 Reach me: [Linkedin](https://www.linkedin.com/in/alex0dd/)
 
