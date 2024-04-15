@@ -1,16 +1,17 @@
 ### Hey, I'm Alex O. P. !
 
-💻 Artificial Intelligence Software Engineer at [NVIDIA](https://www.nvidia.com/en-us/).
+💻 Senior Artificial Intelligence Software Engineer at [NVIDIA](https://www.nvidia.com/en-us/).
 
 🎓 MSc in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html).
 
 🔭 Professional interests: 
   - Few-shot image classification.
-  - Recommendation Systems.
-  - Optimized model implementation.
-  - Graph Neural Networks.
+  - Large Language Models.
+  - Optimized model implementation and deployment.
 
+<!--
 🌱 Currently learning **Large Language Models**.
+-->
 
 📫 Reach me: [Linkedin](https://www.linkedin.com/in/alex0dd/)
 
