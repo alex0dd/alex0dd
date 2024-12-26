@@ -10,7 +10,7 @@
   - Large Language Models Inference.
   - Optimized model implementation and deployment.
 
-🌱 Currently learning **Go Programming Language,Large Language Models Inference and their practical applications**.
+🌱 Currently learning **Go Programming Language**, **Large Language Models Inference** and **LLM practical applications**.
 
 📫 Reach me: [Linkedin](https://www.linkedin.com/in/alex0dd/)
 
