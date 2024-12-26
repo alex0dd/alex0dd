@@ -7,11 +7,10 @@
 🔭 Professional interests: 
   - Few-shot image classification.
   - Large Language Models.
+  - Large Language Models Inference.
   - Optimized model implementation and deployment.
 
-<!--
-🌱 Currently learning **Large Language Models**.
--->
+🌱 Currently learning **Go Programming Language** and **Large Language Models Inference and their practical applications**.
 
 📫 Reach me: [Linkedin](https://www.linkedin.com/in/alex0dd/)
 
