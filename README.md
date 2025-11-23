@@ -5,12 +5,20 @@
 🎓 MSc in Artificial Intelligence at [University of Bologna, Italy](https://corsi.unibo.it/2cycle/artificial-intelligence/index.html).
 
 🔭 Professional interests: 
-  - Few-shot image classification.
-  - Large Language Models.
-  - Large Language Models Inference.
-  - Optimized model implementation and deployment.
+  - **Inference optimization**: making deep learning models fast for inference.
+  - **Model productization**: turning research/community/customer models into an optimized, guardrailed, commercially deployable product.
+  - **Model deployment**: deploying the productized models for the users.
 
-🌱 Currently learning **Go Programming Language**, **Large Language Models Inference** and **LLM practical applications**.
+🌱 Currently learning **Distributed Systems** and **Visual Generative AI applications**.
+
+🌴 Curiously experimenting with **Go Programming Language** and **Large Language Models**.
+
+🕜 Past Professional interests:
+  - Recommender Systems (and optimizing their training).
+  - Graph Neural Networks (and optimizing their training).
+  - Few-shot image classification.
+  - Active Learning.
+  - Large Language Models (inference and applications).
 
 📫 Reach me: [Linkedin](https://www.linkedin.com/in/alex0dd/)
 
