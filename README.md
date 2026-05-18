@@ -8,10 +8,14 @@
   - **Inference optimization**: making deep learning models fast for inference.
   - **Model productization**: turning research/community/customer models into an optimized, guardrailed, commercially deployable product.
   - **Model deployment**: deploying the productized models for the users.
+  - **Visual Generative AI applications**: combining individual deep learning models into systems.
 
+<!--
 🌱 Currently learning **Distributed Systems** and **Visual Generative AI applications**.
-
 🌴 Curiously experimenting with **Go Programming Language** and **Large Language Models**.
+-->
+
+🌴 Curiously experimenting with **Rust Programming Language**.
 
 🕜 Past Professional interests:
   - Recommender Systems (and optimizing their training).
