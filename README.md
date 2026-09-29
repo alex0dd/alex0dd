@@ -15,7 +15,7 @@
 🌴 Curiously experimenting with **Go Programming Language** and **Large Language Models**.
 -->
 
-🌴 Curiously experimenting with **Rust Programming Language**.
+🌴 Curiously experimenting with **Agents for Kernel-level and E2E Inference Perf Optimization**.
 
 🕜 Past Professional interests:
   - Recommender Systems (and optimizing their training).
